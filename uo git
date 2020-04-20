@@ -1,0 +1,36 @@
+[33mcommit aa27957b4778c9aa1628965d48204fa01fd4466d[m[33m ([m[1;36mHEAD -> [m[1;32mfeature2[m[33m)[m
+Merge: ec34fc6 cbd531d
+Author: root <root@ip-172-31-32-23.us-east-2.compute.internal>
+Date:   Sun Apr 19 08:39:38 2020 +0000
+
+    security code has been added in feature2 branch and removed conflict
+
+[33mcommit cbd531da8080ebd169165ba3813582d7e7a43799[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: PoojaPT-Git <60880024+PoojaPT-Git@users.noreply.github.com>
+Date:   Fri Apr 17 17:07:39 2020 +0530
+
+    added readme file
+
+[33mcommit f71ccdccb44d9637abf24e4a39f5976da5baf587[m
+Author: devops-intellipaat <45280093+devops-intellipaat@users.noreply.github.com>
+Date:   Tue Oct 8 20:59:41 2019 +0530
+
+    Update main.c
+
+[33mcommit ec34fc6de0d11fbf63ca7f49c1c4ecd4963c4a3b[m[33m ([m[1;31morigin/feature2[m[33m)[m
+Author: devops-intellipaat <hemant@intellipaat.com>
+Date:   Fri Jan 18 02:33:59 2019 +0000
+
+    added feature2
+
+[33mcommit 1dd86030647b96143abfba931790df85b4417cb0[m
+Author: devops-intellipaat <hemant@intellipaat.com>
+Date:   Fri Jan 18 02:32:00 2019 +0000
+
+    Changed main.c
+
+[33mcommit 85766201fbb0ef305b34b6e236781a30fc322c10[m
+Author: devops-intellipaat <hemant@intellipaat.com>
+Date:   Fri Jan 18 02:24:31 2019 +0000
+
+    initial commit
